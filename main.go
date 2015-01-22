@@ -82,7 +82,8 @@ const html = `
     </p>
 
     <div class="footer">
-      get the source code on GitHub : <a href="http://github.com/victorcoder/heroku_go_demo">victorcoder/heroku_go_demo</a>
+      get the source code on GitHub : <a href="http://github.com/victorcoder/heroku_go_demo">victorcoder/heroku_go_demo</a><br/>
+      modified : <a href="http://github.com/phelanm/heroku_go_demo">phelanm/heroku_go_demo</a>
     </div>
 
   </div>
