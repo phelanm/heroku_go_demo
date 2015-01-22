@@ -72,7 +72,7 @@ const html = `
       <span class="small">by <a href="http://github.com/victorcoder">victorcoder</a></span></h1>
 
     <div class="description">
-      Hello from a Go app running in Heroku!
+      Hello from a Go app running in Heroku! Trying to modify
     </div>
 
 	<h2>Code</h2>
