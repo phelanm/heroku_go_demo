@@ -38,13 +38,11 @@ const html = `
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 
 	<title>Heroku Go/Golang Demo @ GitHub</title>
-	<link href='http://fonts.googleapis.com/css?family=Lato:regular,bold' rel='stylesheet' type='text/css'>
 	<style type="text/css">
 		body {
-  		margin-top: 1.0em;
-  		background: url("http://victorcoder.github.com/tuna/images/bg-body.jpg") repeat scroll 0 0 transparent;
-		  font-family: 'Lato', arial, serif;
-  		color: #000000;
+		margin-top: 1.0em;
+		font-family: 'Lato', arial, serif;
+		color: #000000;
     }
     #container {
       margin: 0 auto;
