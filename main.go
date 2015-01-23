@@ -1,7 +1,7 @@
 package main
 
 import (
-	"http"
+	"net/http"
 	"io"
 	"log"
 	"os"
@@ -25,7 +25,7 @@ func main() {
 	http.HandleFunc("/", HelloServer)
 	err := http.ListenAndServe(":" + port(), nil)
 	if err != nil {
-		log.Fatal("ListenAndServe: ", err.String())
+		log.Fatal("ListenAndServe: ", err)
 	}
 }
 
